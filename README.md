@@ -28,7 +28,7 @@ There are github GUIs availabe, but I wouldn't reccomend it. Go learn real githu
 9. Features (as of now)
     - Voicechat (select a mic on the top right and either hold "P" to talk, "O" to continously send or select auto detect (this is more CPU intensive).
     - TextEditor/Messageboard (Press 'T' to open the TextEditor. You have to click inside to start typing. To send the text to the messageboard, click outside the text box and press 'M'. To exit without sending to the messageboard, click outside the messageboard and press 'esc'. 
-    - Messageboard - Walk up to the white box to see what's been posted to the messageboad. 'Esc' to exit.
+    - Messageboard - Walk up to the white box to see what's been posted to the messageboard. 'Esc' to exit.
     - Arcade Portal - Walk up to get a "Enter game xxxxx". Doesn't actually do anything yet.
 
 I'll add a lot more to the README soon! Including resources, my code, best ways to work together on this, etc...
